@@ -8,7 +8,7 @@ Limitation: The original boy shadow can be still visible. This simplify level na
 
 ## Injection
 
-1. Download and extract (this repository)[https://github.com/Egsagon/inside-no-player/archive/refs/heads/master.zip]
+1. Download and extract [this repository](https://github.com/Egsagon/inside-no-player/archive/refs/heads/master.zip)
 
 2. Browse the game local files
 
