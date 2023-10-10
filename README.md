@@ -5,6 +5,7 @@ Can be used to get in-game background footage.
 
 Limitation: The original boy shadow can be still visible. This simplify level navigation.
 
+Note - To get higher quality images, use a virtual display driver like usbmmidd.
 
 ## Injection
 
